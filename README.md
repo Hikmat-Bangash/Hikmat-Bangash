@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hikmatkhanbang5" target="blank"><img src="https://img.shields.io/twitter/follow/hikmatkhanbang5?logo=twitter&style=for-the-badge" alt="hikmatkhanbang5" /></a> </p>
 
-- 🌱 I’m currently learning **tRPC and Nest**
+- 🌱 I’m currently learning **TypeScript and Nest**
 
-- 💬 Ask me about **React, Next, Node**
+- 💬 Ask me about **React, Next, Node, SvelteKit**
 
 - 📫 How to reach me **hikmat.dev00@gmail.com**
 
