@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hikmatkhanbang5" target="blank"><img src="https://img.shields.io/twitter/follow/hikmatkhanbang5?logo=twitter&style=for-the-badge" alt="hikmatkhanbang5" /></a> </p>
 
-- 🌱 I’m currently exploring ** Artificial Intelligence**
+- 🌱 I’m currently exploring **Artificial Intelligence**
 
 - 💬 Ask me about **React, Next, Remix, hydrogen/shopify, Node, SvelteKit**
 
