@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hikmat Bangash</h1>
-<h3 align="center">A passionate Software Engineer & MERN Stack Developer</h3>
+<h3 align="center">A passionate Software Engineer & Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikmat-bangash&label=Profile%20views&color=0e75b6&style=flat" alt="hikmat-bangash" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hikmatkhanbang5" target="blank"><img src="https://img.shields.io/twitter/follow/hikmatkhanbang5?logo=twitter&style=for-the-badge" alt="hikmatkhanbang5" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript and Nest**
+- 🌱 I’m currently exploring ** Artificial Intelligence**
 
-- 💬 Ask me about **React, Next, Node, SvelteKit**
+- 💬 Ask me about **React, Next, Remix, hydrogen/shopify, Node, SvelteKit**
 
-- 📫 How to reach me **hikmat.dev00@gmail.com**
+- 📫 How to reach me **engrhikmatbangash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
